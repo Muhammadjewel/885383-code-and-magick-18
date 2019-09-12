@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Mukhammadjavokhirbek Suratov](https://up.htmlacademy.ru/javascript/18/user/885383).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Кащенко](https://htmlacademy.ru/profile/id109008).
 
 ---
 
